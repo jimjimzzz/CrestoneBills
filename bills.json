@@ -1,0 +1,423 @@
+{
+  "property": {
+    "title": "2098 Lone Pine Way",
+    "location": "Crestone, CO",
+    "tenant": "Mark",
+    "monthly_rent": "$1,200.00",
+    "zip_line": "Crestone, CO 81131"
+  },
+  "updated": "Updated July 2026",
+  "sections": [
+    {
+      "title": "Propane",
+      "subtitle": "DeLuca Gas",
+      "type": "propane",
+      "unpaid_label": "Unpaid propane",
+      "rows": [
+        {
+          "icon": "🌡️",
+          "utility": "Bulk Delivery",
+          "provider": "135.40 gal · Inv U2691508",
+          "period": "May 6, 2026",
+          "amount": "$354.13",
+          "status": "unpaid",
+          "label": "Overdue",
+          "note": "Pay ASAP"
+        }
+      ]
+    },
+    {
+      "title": "July 2026",
+      "type": "monthly",
+      "unpaid_label": "Unpaid this month",
+      "rows": [
+        {
+          "icon": "🏠",
+          "utility": "Rent",
+          "provider": "Monthly",
+          "period": "July 2026",
+          "amount": "$1,200.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "💻",
+          "utility": "Internet",
+          "provider": "Ciello / SLVREC",
+          "period": "Jun 25 – Jul 24, 2026",
+          "amount": "$49.95",
+          "status": "due-later",
+          "label": "Due 8/15",
+          "note": null
+        }
+      ]
+    },
+    {
+      "title": "June 2026",
+      "type": "monthly",
+      "unpaid_label": "Unpaid this month",
+      "rows": [
+        {
+          "icon": "🏠",
+          "utility": "Rent",
+          "provider": "Monthly",
+          "period": "June 2026",
+          "amount": "$1,200.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "💧",
+          "utility": "Water / Sewer",
+          "provider": "Baca Grande W&S",
+          "period": "Billing period ending Jun 30, 2026",
+          "amount": "$95.34",
+          "status": "due-later",
+          "label": "Due 8/15",
+          "note": null
+        },
+        {
+          "icon": "💻",
+          "utility": "Internet",
+          "provider": "Ciello / SLVREC",
+          "period": "May 25 – Jun 24, 2026",
+          "amount": "$49.95",
+          "status": "unpaid",
+          "label": "Overdue",
+          "note": "Pay ASAP"
+        }
+      ]
+    },
+    {
+      "title": "May 2026",
+      "type": "monthly",
+      "unpaid_label": "Unpaid this month",
+      "rows": [
+        {
+          "icon": "🏠",
+          "utility": "Rent",
+          "provider": "Monthly",
+          "period": "May 2026",
+          "amount": "$1,200.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "💧",
+          "utility": "Water / Sewer",
+          "provider": "Baca Grande W&S",
+          "period": "May 2026",
+          "amount": "$95.34",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 7/2"
+        },
+        {
+          "icon": "⚡",
+          "utility": "Electric",
+          "provider": "SLVREC",
+          "period": "May 1 – Jun 1, 2026",
+          "amount": "$81.00",
+          "status": "due-later",
+          "label": "Due 8/15",
+          "note": null
+        },
+        {
+          "icon": "💻",
+          "utility": "Internet",
+          "provider": "Ciello / SLVREC",
+          "period": "Apr 25 – May 24, 2026",
+          "amount": "$49.95",
+          "status": "unpaid",
+          "label": "Overdue",
+          "note": "Pay ASAP"
+        }
+      ]
+    },
+    {
+      "title": "April 2026",
+      "type": "monthly",
+      "unpaid_label": "Unpaid this month",
+      "rows": [
+        {
+          "icon": "🏠",
+          "utility": "Rent",
+          "provider": "Monthly",
+          "period": "April 2026",
+          "amount": "$1,200.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "💧",
+          "utility": "Water / Sewer",
+          "provider": "Baca Grande W&S",
+          "period": "Billing period ending Apr 30, 2026",
+          "amount": "$95.34",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 5/15"
+        },
+        {
+          "icon": "⚡",
+          "utility": "Electric",
+          "provider": "SLVREC",
+          "period": "Apr 1 – May 1, 2026",
+          "amount": "$81.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 7/2"
+        },
+        {
+          "icon": "💻",
+          "utility": "Internet",
+          "provider": "Ciello / SLVREC",
+          "period": "Mar 25 – Apr 24, 2026",
+          "amount": "$49.95",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 4/2"
+        }
+      ]
+    },
+    {
+      "title": "March 2026",
+      "type": "monthly",
+      "unpaid_label": "Unpaid this month",
+      "rows": [
+        {
+          "icon": "🏠",
+          "utility": "Rent",
+          "provider": "Monthly",
+          "period": "March 2026",
+          "amount": "$1,200.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "💧",
+          "utility": "Water / Sewer",
+          "provider": "Baca Grande W&S",
+          "period": "Billing period ending Mar 31, 2026",
+          "amount": "$95.34",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 5/15"
+        },
+        {
+          "icon": "⚡",
+          "utility": "Electric",
+          "provider": "SLVREC",
+          "period": "Mar 1 – Apr 1, 2026",
+          "amount": "$78.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 5/15"
+        },
+        {
+          "icon": "💻",
+          "utility": "Internet",
+          "provider": "Ciello / SLVREC",
+          "period": "Feb 25 – Mar 24, 2026",
+          "amount": "$49.95",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 5/15"
+        }
+      ]
+    },
+    {
+      "title": "February 2026",
+      "type": "monthly",
+      "unpaid_label": "Unpaid this month",
+      "rows": [
+        {
+          "icon": "🏠",
+          "utility": "Rent",
+          "provider": "Monthly",
+          "period": "February 2026",
+          "amount": "$1,200.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "💧",
+          "utility": "Water / Sewer",
+          "provider": "Baca Grande W&S",
+          "period": "Billing period ending Feb 28, 2026",
+          "amount": "$95.34",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 5/15"
+        },
+        {
+          "icon": "⚡",
+          "utility": "Electric",
+          "provider": "SLVREC",
+          "period": "Feb 1 – Mar 1, 2026",
+          "amount": "$80.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 5/15"
+        },
+        {
+          "icon": "💻",
+          "utility": "Internet",
+          "provider": "Ciello / SLVREC",
+          "period": "Jan 25 – Feb 24, 2026",
+          "amount": "$49.95",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 5/15"
+        }
+      ]
+    },
+    {
+      "title": "January 2026",
+      "type": "monthly",
+      "unpaid_label": "Unpaid this month",
+      "rows": [
+        {
+          "icon": "🏠",
+          "utility": "Rent",
+          "provider": "Monthly",
+          "period": "January 2026",
+          "amount": "$1,200.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "💧",
+          "utility": "Water / Sewer",
+          "provider": "Baca Grande W&S",
+          "period": "Billing period ending Jan 31, 2026",
+          "amount": "$95.34",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 5/4"
+        },
+        {
+          "icon": "⚡",
+          "utility": "Electric",
+          "provider": "SLVREC",
+          "period": "Jan 1 – Feb 1, 2026",
+          "amount": "$83.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 5/4"
+        },
+        {
+          "icon": "💻",
+          "utility": "Internet",
+          "provider": "Ciello / SLVREC",
+          "period": "January 2026",
+          "amount": "$49.95",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        }
+      ]
+    },
+    {
+      "title": "December 2025",
+      "type": "monthly",
+      "unpaid_label": "Unpaid this month",
+      "rows": [
+        {
+          "icon": "🏠",
+          "utility": "Rent",
+          "provider": "Monthly",
+          "period": "December 2025",
+          "amount": "$1,200.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "💧",
+          "utility": "Water / Sewer",
+          "provider": "Baca Grande W&S",
+          "period": "Billing period ending Dec 31, 2025",
+          "amount": "$88.86",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 4/2"
+        },
+        {
+          "icon": "⚡",
+          "utility": "Electric",
+          "provider": "SLVREC",
+          "period": "Dec 1 – Jan 1, 2026",
+          "amount": "$80.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 4/2"
+        },
+        {
+          "icon": "💻",
+          "utility": "Internet",
+          "provider": "Ciello / SLVREC",
+          "period": "December 2025",
+          "amount": "$49.95",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        }
+      ]
+    },
+    {
+      "title": "November 2025",
+      "type": "monthly",
+      "unpaid_label": "Unpaid this month",
+      "rows": [
+        {
+          "icon": "🏠",
+          "utility": "Rent",
+          "provider": "Monthly",
+          "period": "November 2025",
+          "amount": "$1,200.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "💧",
+          "utility": "Water / Sewer",
+          "provider": "Baca Grande W&S",
+          "period": "Billing period ending Nov 30, 2025",
+          "amount": "$88.86",
+          "status": "paid",
+          "label": "Paid",
+          "note": "Received on 4/2"
+        },
+        {
+          "icon": "⚡",
+          "utility": "Electric",
+          "provider": "SLVREC",
+          "period": "November 2025",
+          "amount": "—",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "💻",
+          "utility": "Internet",
+          "provider": "Ciello / SLVREC",
+          "period": "November 2025",
+          "amount": "$49.95",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        }
+      ]
+    }
+  ]
+}
