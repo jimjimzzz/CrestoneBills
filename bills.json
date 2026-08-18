@@ -9,20 +9,29 @@
   "updated": "Updated July 2026",
   "sections": [
     {
-      "title": "Propane",
-      "subtitle": "DeLuca Gas",
-      "type": "propane",
-      "unpaid_label": "Unpaid propane",
+      "title": "August 2026",
+      "type": "monthly",
+      "unpaid_label": "Unpaid this month",
       "rows": [
         {
-          "icon": "🌡️",
-          "utility": "Bulk Delivery",
-          "provider": "135.40 gal · Inv U2691508",
-          "period": "May 6, 2026",
-          "amount": "$354.13",
-          "status": "unpaid",
-          "label": "Overdue",
-          "note": "Pay ASAP"
+          "icon": "\ud83c\udfe0",
+          "utility": "Rent",
+          "provider": "Monthly",
+          "period": "August 2026",
+          "amount": "$1,200.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "\ud83d\udcbb",
+          "utility": "Internet",
+          "provider": "Ciello / SLVREC",
+          "period": "Jul 25 \u2013 Aug 24, 2026",
+          "amount": "$49.95",
+          "status": "due-later",
+          "label": "Due 9/18",
+          "note": null
         }
       ]
     },
@@ -32,7 +41,7 @@
       "unpaid_label": "Unpaid this month",
       "rows": [
         {
-          "icon": "🏠",
+          "icon": "\ud83c\udfe0",
           "utility": "Rent",
           "provider": "Monthly",
           "period": "July 2026",
@@ -42,13 +51,33 @@
           "note": null
         },
         {
-          "icon": "💻",
+          "icon": "\ud83d\udca7",
+          "utility": "Water / Sewer",
+          "provider": "Baca Grande W&S",
+          "period": "Billing period ending Jul 31, 2026",
+          "amount": "$95.34",
+          "status": "due-later",
+          "label": "Due 9/18",
+          "note": null
+        },
+        {
+          "icon": "\u26a1",
+          "utility": "Electric",
+          "provider": "SLVREC",
+          "period": "Jul 1 \u2013 Aug 1, 2026",
+          "amount": "$80.00",
+          "status": "due-later",
+          "label": "Due 9/18",
+          "note": null
+        },
+        {
+          "icon": "\ud83d\udcbb",
           "utility": "Internet",
           "provider": "Ciello / SLVREC",
-          "period": "Jun 25 – Jul 24, 2026",
+          "period": "Jun 25 \u2013 Jul 24, 2026",
           "amount": "$49.95",
-          "status": "due-later",
-          "label": "Due 8/15",
+          "status": "paid",
+          "label": "Paid",
           "note": null
         }
       ]
@@ -59,7 +88,7 @@
       "unpaid_label": "Unpaid this month",
       "rows": [
         {
-          "icon": "🏠",
+          "icon": "\ud83c\udfe0",
           "utility": "Rent",
           "provider": "Monthly",
           "period": "June 2026",
@@ -69,24 +98,34 @@
           "note": null
         },
         {
-          "icon": "💧",
+          "icon": "\ud83d\udca7",
           "utility": "Water / Sewer",
           "provider": "Baca Grande W&S",
           "period": "Billing period ending Jun 30, 2026",
           "amount": "$95.34",
-          "status": "due-later",
-          "label": "Due 8/15",
+          "status": "paid",
+          "label": "Paid",
           "note": null
         },
         {
-          "icon": "💻",
+          "icon": "\u26a1",
+          "utility": "Electric",
+          "provider": "SLVREC",
+          "period": "Jun 1 \u2013 Jul 1, 2026",
+          "amount": "$78.00",
+          "status": "due-later",
+          "label": "Due 9/18",
+          "note": null
+        },
+        {
+          "icon": "\ud83d\udcbb",
           "utility": "Internet",
           "provider": "Ciello / SLVREC",
-          "period": "May 25 – Jun 24, 2026",
+          "period": "May 25 \u2013 Jun 24, 2026",
           "amount": "$49.95",
-          "status": "unpaid",
-          "label": "Overdue",
-          "note": "Pay ASAP"
+          "status": "paid",
+          "label": "Paid",
+          "note": null
         }
       ]
     },
@@ -96,7 +135,7 @@
       "unpaid_label": "Unpaid this month",
       "rows": [
         {
-          "icon": "🏠",
+          "icon": "\ud83c\udfe0",
           "utility": "Rent",
           "provider": "Monthly",
           "period": "May 2026",
@@ -106,7 +145,7 @@
           "note": null
         },
         {
-          "icon": "💧",
+          "icon": "\ud83d\udca7",
           "utility": "Water / Sewer",
           "provider": "Baca Grande W&S",
           "period": "May 2026",
@@ -116,24 +155,24 @@
           "note": "Received on 7/2"
         },
         {
-          "icon": "⚡",
+          "icon": "\u26a1",
           "utility": "Electric",
           "provider": "SLVREC",
-          "period": "May 1 – Jun 1, 2026",
+          "period": "May 1 \u2013 Jun 1, 2026",
           "amount": "$81.00",
           "status": "due-later",
           "label": "Due 8/15",
           "note": null
         },
         {
-          "icon": "💻",
+          "icon": "\ud83d\udcbb",
           "utility": "Internet",
           "provider": "Ciello / SLVREC",
-          "period": "Apr 25 – May 24, 2026",
+          "period": "Apr 25 \u2013 May 24, 2026",
           "amount": "$49.95",
-          "status": "unpaid",
-          "label": "Overdue",
-          "note": "Pay ASAP"
+          "status": "paid",
+          "label": "Paid",
+          "note": null
         }
       ]
     },
@@ -143,7 +182,7 @@
       "unpaid_label": "Unpaid this month",
       "rows": [
         {
-          "icon": "🏠",
+          "icon": "\ud83c\udfe0",
           "utility": "Rent",
           "provider": "Monthly",
           "period": "April 2026",
@@ -153,7 +192,7 @@
           "note": null
         },
         {
-          "icon": "💧",
+          "icon": "\ud83d\udca7",
           "utility": "Water / Sewer",
           "provider": "Baca Grande W&S",
           "period": "Billing period ending Apr 30, 2026",
@@ -163,20 +202,20 @@
           "note": "Received on 5/15"
         },
         {
-          "icon": "⚡",
+          "icon": "\u26a1",
           "utility": "Electric",
           "provider": "SLVREC",
-          "period": "Apr 1 – May 1, 2026",
+          "period": "Apr 1 \u2013 May 1, 2026",
           "amount": "$81.00",
           "status": "paid",
           "label": "Paid",
           "note": "Received on 7/2"
         },
         {
-          "icon": "💻",
+          "icon": "\ud83d\udcbb",
           "utility": "Internet",
           "provider": "Ciello / SLVREC",
-          "period": "Mar 25 – Apr 24, 2026",
+          "period": "Mar 25 \u2013 Apr 24, 2026",
           "amount": "$49.95",
           "status": "paid",
           "label": "Paid",
@@ -190,7 +229,7 @@
       "unpaid_label": "Unpaid this month",
       "rows": [
         {
-          "icon": "🏠",
+          "icon": "\ud83c\udfe0",
           "utility": "Rent",
           "provider": "Monthly",
           "period": "March 2026",
@@ -200,7 +239,7 @@
           "note": null
         },
         {
-          "icon": "💧",
+          "icon": "\ud83d\udca7",
           "utility": "Water / Sewer",
           "provider": "Baca Grande W&S",
           "period": "Billing period ending Mar 31, 2026",
@@ -210,20 +249,20 @@
           "note": "Received on 5/15"
         },
         {
-          "icon": "⚡",
+          "icon": "\u26a1",
           "utility": "Electric",
           "provider": "SLVREC",
-          "period": "Mar 1 – Apr 1, 2026",
+          "period": "Mar 1 \u2013 Apr 1, 2026",
           "amount": "$78.00",
           "status": "paid",
           "label": "Paid",
           "note": "Received on 5/15"
         },
         {
-          "icon": "💻",
+          "icon": "\ud83d\udcbb",
           "utility": "Internet",
           "provider": "Ciello / SLVREC",
-          "period": "Feb 25 – Mar 24, 2026",
+          "period": "Feb 25 \u2013 Mar 24, 2026",
           "amount": "$49.95",
           "status": "paid",
           "label": "Paid",
@@ -237,7 +276,7 @@
       "unpaid_label": "Unpaid this month",
       "rows": [
         {
-          "icon": "🏠",
+          "icon": "\ud83c\udfe0",
           "utility": "Rent",
           "provider": "Monthly",
           "period": "February 2026",
@@ -247,7 +286,7 @@
           "note": null
         },
         {
-          "icon": "💧",
+          "icon": "\ud83d\udca7",
           "utility": "Water / Sewer",
           "provider": "Baca Grande W&S",
           "period": "Billing period ending Feb 28, 2026",
@@ -257,20 +296,20 @@
           "note": "Received on 5/15"
         },
         {
-          "icon": "⚡",
+          "icon": "\u26a1",
           "utility": "Electric",
           "provider": "SLVREC",
-          "period": "Feb 1 – Mar 1, 2026",
+          "period": "Feb 1 \u2013 Mar 1, 2026",
           "amount": "$80.00",
           "status": "paid",
           "label": "Paid",
           "note": "Received on 5/15"
         },
         {
-          "icon": "💻",
+          "icon": "\ud83d\udcbb",
           "utility": "Internet",
           "provider": "Ciello / SLVREC",
-          "period": "Jan 25 – Feb 24, 2026",
+          "period": "Jan 25 \u2013 Feb 24, 2026",
           "amount": "$49.95",
           "status": "paid",
           "label": "Paid",
@@ -284,7 +323,7 @@
       "unpaid_label": "Unpaid this month",
       "rows": [
         {
-          "icon": "🏠",
+          "icon": "\ud83c\udfe0",
           "utility": "Rent",
           "provider": "Monthly",
           "period": "January 2026",
@@ -294,7 +333,7 @@
           "note": null
         },
         {
-          "icon": "💧",
+          "icon": "\ud83d\udca7",
           "utility": "Water / Sewer",
           "provider": "Baca Grande W&S",
           "period": "Billing period ending Jan 31, 2026",
@@ -304,17 +343,17 @@
           "note": "Received on 5/4"
         },
         {
-          "icon": "⚡",
+          "icon": "\u26a1",
           "utility": "Electric",
           "provider": "SLVREC",
-          "period": "Jan 1 – Feb 1, 2026",
+          "period": "Jan 1 \u2013 Feb 1, 2026",
           "amount": "$83.00",
           "status": "paid",
           "label": "Paid",
           "note": "Received on 5/4"
         },
         {
-          "icon": "💻",
+          "icon": "\ud83d\udcbb",
           "utility": "Internet",
           "provider": "Ciello / SLVREC",
           "period": "January 2026",
@@ -331,7 +370,7 @@
       "unpaid_label": "Unpaid this month",
       "rows": [
         {
-          "icon": "🏠",
+          "icon": "\ud83c\udfe0",
           "utility": "Rent",
           "provider": "Monthly",
           "period": "December 2025",
@@ -341,7 +380,7 @@
           "note": null
         },
         {
-          "icon": "💧",
+          "icon": "\ud83d\udca7",
           "utility": "Water / Sewer",
           "provider": "Baca Grande W&S",
           "period": "Billing period ending Dec 31, 2025",
@@ -351,17 +390,17 @@
           "note": "Received on 4/2"
         },
         {
-          "icon": "⚡",
+          "icon": "\u26a1",
           "utility": "Electric",
           "provider": "SLVREC",
-          "period": "Dec 1 – Jan 1, 2026",
+          "period": "Dec 1 \u2013 Jan 1, 2026",
           "amount": "$80.00",
           "status": "paid",
           "label": "Paid",
           "note": "Received on 4/2"
         },
         {
-          "icon": "💻",
+          "icon": "\ud83d\udcbb",
           "utility": "Internet",
           "provider": "Ciello / SLVREC",
           "period": "December 2025",
@@ -378,7 +417,7 @@
       "unpaid_label": "Unpaid this month",
       "rows": [
         {
-          "icon": "🏠",
+          "icon": "\ud83c\udfe0",
           "utility": "Rent",
           "provider": "Monthly",
           "period": "November 2025",
@@ -388,7 +427,7 @@
           "note": null
         },
         {
-          "icon": "💧",
+          "icon": "\ud83d\udca7",
           "utility": "Water / Sewer",
           "provider": "Baca Grande W&S",
           "period": "Billing period ending Nov 30, 2025",
@@ -398,21 +437,39 @@
           "note": "Received on 4/2"
         },
         {
-          "icon": "⚡",
+          "icon": "\u26a1",
           "utility": "Electric",
           "provider": "SLVREC",
           "period": "November 2025",
-          "amount": "—",
+          "amount": "\u2014",
           "status": "paid",
           "label": "Paid",
           "note": null
         },
         {
-          "icon": "💻",
+          "icon": "\ud83d\udcbb",
           "utility": "Internet",
           "provider": "Ciello / SLVREC",
           "period": "November 2025",
           "amount": "$49.95",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        }
+      ]
+    },
+    {
+      "title": "Propane",
+      "subtitle": "DeLuca Gas",
+      "type": "propane",
+      "unpaid_label": "Unpaid propane",
+      "rows": [
+        {
+          "icon": "\ud83c\udf21\ufe0f",
+          "utility": "Bulk Delivery",
+          "provider": "135.40 gal \u00b7 Inv U2691508",
+          "period": "May 6, 2026",
+          "amount": "$354.13",
           "status": "paid",
           "label": "Paid",
           "note": null
