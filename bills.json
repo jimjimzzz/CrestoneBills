@@ -6,8 +6,35 @@
     "monthly_rent": "$1,200.00",
     "zip_line": "Crestone, CO 81131"
   },
-  "updated": "Updated July 2026",
+  "updated": "Updated September 2026",
   "sections": [
+    {
+      "title": "September 2026",
+      "type": "monthly",
+      "unpaid_label": "Unpaid this month",
+      "rows": [
+        {
+          "icon": "\ud83c\udfe0",
+          "utility": "Rent",
+          "provider": "Monthly",
+          "period": "September 2026",
+          "amount": "$1,200.00",
+          "status": "paid",
+          "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "\ud83d\udcbb",
+          "utility": "Internet",
+          "provider": "Ciello / SLVREC",
+          "period": "Aug 25 \u2013 Sep 24, 2026",
+          "amount": "$49.95",
+          "status": "due-later",
+          "label": "Due 10/22",
+          "note": null
+        }
+      ]
+    },
     {
       "title": "August 2026",
       "type": "monthly",
@@ -21,6 +48,26 @@
           "amount": "$1,200.00",
           "status": "paid",
           "label": "Paid",
+          "note": null
+        },
+        {
+          "icon": "\ud83d\udca7",
+          "utility": "Water / Sewer",
+          "provider": "Baca Grande W&S",
+          "period": "Billing period ending Aug 31, 2026",
+          "amount": "$95.34",
+          "status": "due-later",
+          "label": "Due 10/22",
+          "note": null
+        },
+        {
+          "icon": "\u26a1",
+          "utility": "Electric",
+          "provider": "SLVREC",
+          "period": "Aug 1 \u2013 Sep 1, 2026",
+          "amount": "$79.00",
+          "status": "due-later",
+          "label": "Due 10/22",
           "note": null
         },
         {
