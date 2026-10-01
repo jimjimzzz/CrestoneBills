@@ -103,9 +103,9 @@
           "provider": "Baca Grande W&S",
           "period": "Billing period ending Jul 31, 2026",
           "amount": "$95.34",
-          "status": "due-later",
-          "label": "Due 9/18",
-          "note": null
+          "status": "paid",
+          "label": "Paid",
+          "note": "(reimbursed roof leak)"
         },
         {
           "icon": "\u26a1",
@@ -160,9 +160,9 @@
           "provider": "SLVREC",
           "period": "Jun 1 \u2013 Jul 1, 2026",
           "amount": "$78.00",
-          "status": "due-later",
-          "label": "Due 9/18",
-          "note": null
+          "status": "paid",
+          "label": "Paid",
+          "note": "(reimbursed roof leak)"
         },
         {
           "icon": "\ud83d\udcbb",
@@ -207,9 +207,9 @@
           "provider": "SLVREC",
           "period": "May 1 \u2013 Jun 1, 2026",
           "amount": "$81.00",
-          "status": "due-later",
-          "label": "Due 8/15",
-          "note": null
+          "status": "paid",
+          "label": "Paid",
+          "note": "(reimbursed roof leak)"
         },
         {
           "icon": "\ud83d\udcbb",
