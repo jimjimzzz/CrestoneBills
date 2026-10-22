@@ -6,7 +6,7 @@
     "monthly_rent": "$1,200.00",
     "zip_line": "Crestone, CO 81131"
   },
-  "updated": "Updated September 2026",
+  "updated": "Updated October 2026",
   "sections": [
     {
       "title": "September 2026",
@@ -22,6 +22,26 @@
           "status": "paid",
           "label": "Paid",
           "note": null
+        },
+        {
+          "icon": "\ud83d\udca7",
+          "utility": "Water / Sewer",
+          "provider": "Baca Grande W&S",
+          "period": "Billing period ending Sep 30, 2026",
+          "amount": "$95.34",
+          "status": "due-later",
+          "label": "Due 11/22",
+          "note": "Added 10/22"
+        },
+        {
+          "icon": "\u26a1",
+          "utility": "Electric",
+          "provider": "SLVREC",
+          "period": "Sep 1 \u2013 Oct 1, 2026",
+          "amount": "$82.00",
+          "status": "due-later",
+          "label": "Due 11/22",
+          "note": "Added 10/22"
         },
         {
           "icon": "\ud83d\udcbb",
